@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 
 two
 three
 
+=======
+two
+>>>>>>> parent of 4da20e7 (three)
